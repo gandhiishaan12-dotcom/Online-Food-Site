@@ -1,0 +1,59 @@
+body{
+    background-color: #F2F9FF;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Raleway", sans-serif;
+}
+.Header{
+    background-color: #FF9D3D;
+    padding: 20px;
+}
+.logo{
+    font-size: 40px;
+    color: #F2F9FF;
+}
+nav a{
+    text-decoration: none;
+    color: #F2F9FF;
+    padding: 15px;
+}
+.Image img{
+    margin-left: 15px;
+    border-radius: 15px;
+}
+#about{
+    padding: 5px 300px;
+}
+.info{
+    display: flex;
+    line-height: 1.5;
+    gap: 10px;
+    text-align: justify;
+}
+.info img{
+    border-radius: 15px;
+}
+#services{
+    text-align: left;
+    padding: 15px 300px;
+    line-height: 1.5;
+}
+.dish{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 100px;
+}
+#testimonials{
+    padding: 30px;
+}
+.end{
+    background-color: #FF9D3D;
+    color: #F2F9FF;
+    padding: 15px;
+}
